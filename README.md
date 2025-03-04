@@ -1,63 +1,129 @@
-# Justin P Barnett
+# Justin Barnett
 
-- **YouTube:** [youtube.com/justinpbarnett](https://youtube.com/justinpbarnett)
 - **LinkedIn:** [in/justin-p-barnett](https://linkedin.com/in/justin-p-barnett)
-- **X:** [x.com/justinpbarnett](https://x.com/justinpbarnett)
 - **GitHub:** [github.com/justinpbarnett](https://github.com/justinpbarnett)
-- **Email:** [barnett.justin.p@gmail.com](mailto:barnett.justin.p@gmail.com)
+- **X:** [x.com/justinpbarnett](https://x.com/justinpbarnett)
+- **YouTube:** [youtube.com/JustinPBarnett](https://youtube.com/JustinPBarnett)
+- **Email:** [barnett.justin@gmail.com](mailto:barnett.justin@gmail.com)
+- **Phone:** [(770) 318-5334](tel:7703185334)
 - **Location:** [Atlanta, Georgia](https://en.wikipedia.org/wiki/Atlanta)
 
 ## Professional Summary
-Innovative XR Technology Specialist with extensive experience in digital twin technology, XR development, and project management. Proven track record in leading cutting-edge projects, educating in emerging tech fields, and contributing as a speaker at key industry events.
+Experienced software developer and XR leader specializing in virtual and augmented reality technologies.
 
 ## Experience
 
-### XR Digital Twin Technology Specialist | ThinAir
-**January 2024 - Present**
-- Pioneering a digital twin application for Range Rover to revolutionize automotive customer experience.
-- Implemented a robust integration between a React web application and XR platform for seamless data flow.
-- Spearheading project management, driving innovation and team synergy in spatial technology development.
+### Full-Time Work
 
-### Co-Founder | Spatial Ape
-**August 2022 - Present**
-- Established Spatial Ape with a vision to transform multiplayer VR gaming experiences.
-- Played a pivotal role in securing over $250,000 in funding, fueling company growth and innovation.
-- Collaborated with industry giants like Dell and Credit Agricole, delivering bespoke VR projects that pushed technological boundaries.
+#### Senior Software Developer | thinAiR
+**October 2023 - Present | Remote**
+- Lead development teams delivering cutting-edge XR solutions, managing full project lifecycles from concept to deployment.
+- **Skills:** Technical Project Leadership, Virtual Reality (VR), Augmented Reality (AR), Unity, Recruiting
 
-### Founder | VR Creators
-**September 2021 - Present**
-- Founded VR Creators, empowering individuals to transition from traditional careers to VR technology.
-- Cultivated a community of aspiring VR professionals, providing mentorship and advanced training.
-- Leveraged expertise in programming and marketing to establish VR Creators as a leading educational platform in VR.
+#### CTO | Foundry - Spatial Computing
+**August 2022 - January 2024 | Remote**
+- Founded startup focused on multiplayer VR simplification. Raised $250K+ in funding.
+- Delivered projects for Dell, Credit Agricole, and Big Rock Creative.
+- **Skills:** Virtual Reality (VR), Team Management, Software Development, Rapid Prototyping, Team Building
 
-### Educator | YouTube
-**April 2020 - Present**
-- Built a significant online presence, educating over 37,000 subscribers in VR game development.
-- Developed and shared comprehensive tutorials on C#, Unity, and game development strategies.
-- Recognized as a key influencer in VR education, enhancing learning through engaging online content.
+#### Software Developer | Improving
+**May 2019 - January 2023 | Greater Atlanta Area**
+- Progressed from intern to Consultant, delivering diverse client projects with Angular, ASP.NET, Azure Functions, and SQL.
+- Worked across e-commerce, government, and self-service portals.
+- **Skills:** ASP.NET, SQL, C#, Angular, .NET Core, JavaScript
 
-### Game Developer | Red Team Interactive
-**October 2023 - December 2023**
-- Led the development of core player controller and gameplay mechanics in Sail VR as a Senior Engineer.
-- Enhanced gameplay realism and user engagement through innovative physics-based controller systems.
-- Contributed to the successful alpha release of Sail VR, setting new standards in VR gaming.
+#### Assistant Superintendent | Smith Douglas Homes
+**November 2016 - December 2018 | Woodstock, GA**
+- Managed construction of 20+ residential homes simultaneously.
+- Oversaw trade schedules, payroll, quality inspections, and homeowner orientations.
+- **Skills:** Project Management, Quality Control, Client Relations, Team Coordination, Budget Management
 
----
+#### Pool Manager | Nautix Lifeguards & Maintenance, LLC.
+**June 2013 - September 2015**
+- Supervised lifeguard team and maintained pool facilities for multiple community swimming pools.
+- **Skills:** Team Management, Safety Protocols, Customer Service, Staff Training, Facility Maintenance
+
+#### Sales Associate | UPS
+**February 2014 - March 2015 | Kennesaw, Georgia**
+- Delivered exceptional customer service and drove sales in a fast-paced shipping environment.
+- **Skills:** Customer Service, Sales, Logistics, Problem Solving, Time Management
+
+### Contract Work
+
+#### Senior Software Engineer | Twisted Barrel VR
+**May 2024 - December 2024 | Remote**
+- Built multiplayer authentication system and implemented core gameplay features for VR shooting experience.
+- **Skills:** Unity, C#, Multiplayer Development, Virtual Reality (VR), Game Development
+
+#### Senior Software Developer | mpressed.ai
+**April 2023 - October 2023 | Louisiana (Remote)**
+- Built AI-powered newsletter platform with drag-and-drop editor using Next.js, Supabase, Langchain, and Stripe.
+- **Skills:** Next.js, AI Software Development, Supabase, LangChain, Stripe
+
+#### Senior Software Developer | Red Team Interactive
+**October 2023 - December 2023 | Remote**
+- Rebuilt physics-based player controller for Sail VR and implemented key gameplay features.
+- **Skills:** Unity, C#, Virtual Reality (VR), Physics, Game Development
+
+#### Lead Instructor | XR Terra
+**June 2021 - February 2022 | Remote**
+- Led intensive 8-week VR development bootcamps, transforming beginners into skilled Unity/C# developers.
+- **Skills:** Virtual Reality (VR), Unity, C#, Education, Game Development
+
+### Side Projects
+
+#### Founder | VR Creators
+**September 2021 - Present | Atlanta, Georgia**
+- Founder of VR Creators, helping tech professionals transition from corporate jobs to fulfilling VR careers.
+- **Skills:** Virtual Reality (VR), Coaching, Team Management, Marketing, Sales
+
+#### Educator | YouTube
+**April 2020 - Present | Remote**
+- Creator of VR development tutorials with 3M+ views, teaching Unity and C# fundamentals to aspiring XR developers.
+- **Skills:** Virtual Reality (VR), Unity, C#, Education, Public Speaking
+
+#### Portrait Photographer | Self-employed
+**August 2016 - August 2018 | Atlanta, Georgia**
+- Delivered professional photography and videography services for major clients including Delta Airlines, Atlanta Braves, and various organizations.
+- Specialized in portraits, events, and promotional content for web, advertising, and social media.
+- **Skills:** Photography, Videography, Client Relations, Creative Direction, Event Management
+
+### Speaking Engagements
+
+#### Guest Speaker | Web3 ATL
+**November 2023 | Atlanta, Georgia**
+- Panelist speaker for the talk, "Are We at the Inflection Point for XR to Go Mainstream?"
+- **Skills:** Public Speaking, Virtual Reality (VR), Industry Trends, Technology Evangelism, XR Adoption
+
+#### Guest Speaker | AWE
+**March 2023 | San Jose, California**
+- Panelist speaker for the talk, "The Case for Custom: Jump Ship from Walled-Garden Multiplayer-VR, Build Your Own App, and Do Your Own Thing"
+- **Skills:** Public Speaking, Virtual Reality (VR), Multiplayer Development, Independent Development, Technology Strategy
 
 ## Education
 
-### Bachelor of Science - BS, Computer Software Engineering
-**Kennesaw State University**, 3.38 GPA, 2020
-
-## Certifications
-
-- Professional Scrum Master I, Scrum.org, 2020
+### Bachelor of Science - Software Engineering
+**Kennesaw State University**, September 2014 - May 2020
 
 ## Skills
 
-- **Industry Knowledge:** Game Development, XR Technologies, Digital Twin Development, Project Management.
-- **Tools & Technologies:** Unity, React.js, Google Firebase, ASP.NET, C#, Typescript, SQL, Azure, GitHub.
-- **Interpersonal Skills:** Leadership, Team Management, Public Speaking, Strategic Planning.
+### XR Development
+Virtual Reality (VR), Augmented Reality (AR), Unity, Game Development, Multiplayer Development, Physics
+
+### Programming
+C#, SQL, JavaScript, TypeScript, .NET Core, ASP.NET
+
+### Web Development
+Next.js, Angular, React.js, Supabase, Firebase, Stripe
+
+### AI & Modern Tech
+AI Software Development, LangChain, Rapid Prototyping, Software Development
+
+### Leadership
+Technical Project Leadership, Team Management, Team Building, Recruiting, Project Management
+
+### Client & Communication
+Public Speaking, Education, Client Relations, Technology Evangelism, Industry Trends
 
 ## Languages
 
